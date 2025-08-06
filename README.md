@@ -2,7 +2,7 @@
 
 Тестовый репозиторий для демонстрации работы Postman
 ___  
-© 2025 A. Истратенко  
+© 2025 А. Истратенко  
 This content is part of an educational course.  
 
 This work is licensed under a  
